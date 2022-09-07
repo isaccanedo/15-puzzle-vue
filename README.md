@@ -1,11 +1,5 @@
 # 15-puzzle-vue
 
-Play the 15 Puzzle everywhere.
-
-[Demo](https://luwangel.github.io/15-puzzle-vue) - [Help](https://github.com/Luwangel/15-puzzle-vue/issues) - [Contribute](https://github.com/Luwangel/15-puzzle-vue/pulls)
-
-[![15-puzzle-vue-demo](https://luwangel.github.io/15-puzzle-vue/screenshot.png)](https://luwangel.github.io/15-puzzle-vue)
-
 ## Setup & Development
 
 **Tip:** Type `make help` to see all the available commands.
