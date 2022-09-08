@@ -1,6 +1,6 @@
 # 15-puzzle-vue
 
-## Setup & Development
+## Configuração e Desenvolvimento
 
 **Tip:** Type `make help` to see all the available commands.
 
